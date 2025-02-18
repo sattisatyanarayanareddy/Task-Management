@@ -10,7 +10,8 @@
 
 ## Screenshots
 
-![Screenshot 1](https://lh3.googleusercontent.com/u/0/drive-viewer/AITFw-xB_NskCCSMSnG-n9fDvajBY9qQtBOd1zc76vkmv3l0_-XrX5oeQo51jerPfEbXlkIZLFhSclNXFI4Z4CSs4joj3fUZ=w1920-h883)
+![Screenshot 2025-02-18 124904](https://github.com/user-attachments/assets/b9d0c75e-fb0e-4d75-9a76-fbeabc139612)
+
 
 ## Getting Started
 
